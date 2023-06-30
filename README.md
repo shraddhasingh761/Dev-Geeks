@@ -776,6 +776,9 @@ Happy Coding! -->
 
 <td align="center"> 255.</td>
 <td align="center"><a href="https://github.com/pranjay-poddar/Dev-Geeks/tree/main/Js-Games/Quiz_Game">Quiz_GAme</a></td>
+<td align="center"> 256.</td>
+<td align="center"><a href="https://github.com/pranjay-poddar/Dev-Geeks/tree/main/Frontend-Projects/Apple-Clone">Apple-Clone</a></td>
+
 </tr>
 </table>
 
